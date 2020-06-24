@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Mari Naumenko](https://up.htmlacademy.ru/htmlcss/28/user/1471379).
-* Наставник: `Неизвестно`.
+* Наставник: [Алёна Сиприкова](https://htmlacademy.ru/profile/asiprikova).
 
 ---
 
